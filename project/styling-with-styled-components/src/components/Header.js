@@ -8,7 +8,8 @@ export default function Header() {
    
     return (
 <StyledDiv>
-<img className="Image" alt="header_01" src="img/header_img.png" />
+    <p>인생제주</p>
+<img className="Image" alt="header_01" src="../img/header_img.png" />
 </StyledDiv>
        
     );
